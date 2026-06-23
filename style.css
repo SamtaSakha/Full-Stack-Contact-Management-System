@@ -1,0 +1,28 @@
+body{
+    font-family:Arial;
+    background:#f4f4f4;
+}
+
+form{
+    width:400px;
+    margin:auto;
+}
+
+input,textarea{
+    width:100%;
+    padding:10px;
+    margin:10px 0;
+}
+
+button{
+    padding:10px;
+}
+
+
+@media(max-width:768px){
+
+form{
+width:90%;
+}
+
+}
