@@ -184,7 +184,7 @@ Response
 ---
 
 ## HOME PAGE SCREENSHOT
-![HOME]("Screenshots/Screenshot 2026-06-23 154320.png")
+![HOME]("https://github.com/SamtaSakha/Full-Stack-Contact-Management-System/blob/main/Screenshot%202026-06-23%20154320.png#:~:text=README.md-,Screenshot%202026%2D06%2D23%20154320.png,-Screenshot%202026%2D06)
 ## ADMIN DASHBOARD
 ## MONGODB DATABASE
 
