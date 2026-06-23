@@ -269,7 +269,8 @@ Successfully developed a full-stack submission management system that enables us
 This project demonstrates practical implementation of modern web development technologies including HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, and REST APIs.
 
 
+---
 
 
-by
+-BY
 ## SAMTA SAKHA
