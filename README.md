@@ -272,5 +272,5 @@ This project demonstrates practical implementation of modern web development tec
 ---
 
 
--BY
+by
 ## SAMTA SAKHA
