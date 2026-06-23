@@ -267,3 +267,7 @@ Through this project, the following concepts were implemented and learned:
 Successfully developed a full-stack submission management system that enables users to submit inquiries through a responsive web interface while allowing administrators to manage and view submissions stored in MongoDB Atlas.
 
 This project demonstrates practical implementation of modern web development technologies including HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, and REST APIs.
+
+
+by
+## SAMTA SAKHA
